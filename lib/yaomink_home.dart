@@ -322,7 +322,7 @@ class YaoHero extends StatelessWidget {
             mainAxisSize: MainAxisSize.max,
             children: [
               Text(
-                'The Best Job Finder',
+                'The Best Job Finder Web',
                 style: GoogleFonts.oswald(
                     fontSize: 40.0,
                     color: Colors.deepPurple,
